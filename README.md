@@ -95,7 +95,7 @@ Which operations an agent can call, which act, and which need a human in the loo
 
 - [Job Opportunities API Agentic Access](https://apis.io/agentic-access/jobopportunitiesapi-org/jobopportunitiesapi-org-agentic-access/)
 
-#### JSON Schema (4)
+#### JSON Schema (7)
 
 The data models the API reads and writes.
 
@@ -103,6 +103,9 @@ The data models the API reads and writes.
 - [CompanyPage](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-company-page/)
 - [Job](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-job/)
 - [JobPage](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-job-page/)
+- [JobStatus](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-job-status/)
+- [SimilarPage](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-similar-page/)
+- [WithdrawnReason](https://apis.io/schemas/jobopportunitiesapi-org/jobopportunitiesapi-org-withdrawn-reason/)
 
 #### JSON-LD (1)
 
